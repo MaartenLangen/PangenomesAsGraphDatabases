@@ -1,5 +1,0 @@
-Start Time =  18:03:00
-database connection made.  18:03:00
-obtained records.     18:03:01
-blast results virus obtained.     18:03:34
-written virus hits to db.     18:03:39
